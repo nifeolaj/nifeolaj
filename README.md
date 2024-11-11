@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oluwanifemi Olajuyigbe, but you can call me Nife for short :)
-- 👀 I’m interested in Data  Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m currentle a master's student in the Erasmus Mundus Big Data Management and Analytics (BDMA) programme
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me nifeolaj@gmail.com
 <!---
